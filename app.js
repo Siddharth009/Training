@@ -1,6 +1,6 @@
 const express = require('express');
 
-// const connect = require('./database.js');
+const connect = require('./database.js');
 
 const app = express();
 
